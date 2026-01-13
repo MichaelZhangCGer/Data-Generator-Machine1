@@ -1,0 +1,5 @@
+{
+  "name": "样本数据扩增神器",
+  "description": "专业级图像数据增强工具，专为YOLO模型训练样本优化设计。",
+  "requestFramePermissions": []
+}
